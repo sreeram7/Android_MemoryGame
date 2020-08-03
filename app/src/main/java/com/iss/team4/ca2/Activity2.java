@@ -37,7 +37,7 @@ public class Activity2 extends AppCompatActivity {
 
     ImageView img1, iv_12, iv_13, iv_14, iv_21, iv_22, iv_23, iv_24, iv_31, iv_32, iv_33, iv_34;
 
-    //array for the images
+    //array for  images
     Integer[] cardsArray = {101,102,103,104,105,106,201,202,203,204,205,206};
 
     int firstCard, secondCard;
